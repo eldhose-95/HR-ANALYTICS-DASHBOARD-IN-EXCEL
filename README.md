@@ -8,26 +8,26 @@ Attrition is the decrease in the number of employees caused by people leaving an
 
 The dashboard provide valuable insights such as:
 
-Education wise attrition
+* Education wise attrition
 
-Attrition by job role
+* Attrition by job role
 
-Department wise attrition
+* Department wise attrition
 
-Attrition by age group
+* Attrition by age group
 
-Attrition by marital status
+* Attrition by marital status
 
 During the process of building this dashboard, I learned various techniques such as:
 
-Data analysis and cleaning
+* Data analysis and cleaning
 
-Using Excel formulas and functions
+* Using Excel formulas and functions
 
-Creating pivot tables
+* Creating pivot tables
 
-Designing the dashboard
+* Designing the dashboard
 
-Slicer formatting
+* Slicer formatting
 
-Create various charts such as pie chart, donut chart, bar chart,column chart, treemap, funnel chart and to format them.
+* Create various charts such as pie chart, donut chart, bar chart,column chart, treemap, funnel chart and to format them.
